@@ -1,0 +1,1 @@
+#common attributes changing CGM data - activities, etc.
